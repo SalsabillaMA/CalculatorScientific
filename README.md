@@ -8,6 +8,7 @@ Masuk aplikasi
 
 Proses aplikasi
 
+![alt text](CalculatorScientifc/proses.gif)
 
 Terdiri dari dua halaman yaitu :
 
@@ -20,4 +21,6 @@ Tampilan halaman kalkulator
 ![alt text](CalculatorScientifc/kalkulator.jpg)
 
 proses kalkulator 
+
+![alt text](CalculatorScientifc/hasil.gif)
 
